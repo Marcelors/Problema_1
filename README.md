@@ -6,8 +6,8 @@ Quando fazemos o backup de arquivos, como imagens, músicas ou vídeos, um probl
 
 Requisitos:
 
-- O software deve ler e armazenar os arquivos em memória  Deverá ser possível visualizar o conteúdo do arquivo.
-
+- O software deve ler e armazenar os arquivos em memória
+- Deverá ser possível visualizar o conteúdo do arquivo.
 - Tendo em vista que nosso espaço de armazenamento é escasso, não podemos nos dar o luxo de ter o mesmo conteúdo armazenado mais de uma vez.
 
 Exemplo:
